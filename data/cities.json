@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "740d",
+      "cityName": "Ramallah",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2025-04-16T00:00:00.000Z",
+      "notes": "زبالة",
+      "position": {
+        "lat": "31.90554145590038",
+        "lng": "35.19607543945313"
+      }
+    },
+    {
+      "id": "0b41",
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2025-04-24T08:20:25.986Z",
+      "notes": "شفت الاهرامات",
+      "position": {
+        "lat": "30.0286775329042",
+        "lng": "31.236877441406254"
+      }
+    },
+    {
+      "id": "f59c",
+      "cityName": "Karmaskaly",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-04-24T08:21:47.209Z",
+      "notes": "",
+      "position": {
+        "lat": "54.49556752187409",
+        "lng": "56.05224609375001"
+      }
+    },
+    {
+      "id": "1e34",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-04-24T08:22:09.171Z",
+      "notes": "",
+      "position": {
+        "lat": "48.828565527993234",
+        "lng": "2.3345947265625004"
+      }
+    },
+    {
+      "id": "9289",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-04-24T08:22:28.414Z",
+      "notes": "",
+      "position": {
+        "lat": "51.49506473014368",
+        "lng": "-0.14282226562500003"
+      }
+    },
+    {
+      "id": "f364",
+      "cityName": "Tauste",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-24T08:51:16.801Z",
+      "notes": "",
+      "position": {
+        "lat": "41.88592102814744",
+        "lng": "-1.0986328125000002"
+      }
+    }
+  ]
+}
